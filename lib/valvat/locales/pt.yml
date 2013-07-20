@@ -1,34 +1,35 @@
 pt:
   errors:
     messages:
-      invalid_vat: IVA inválido para %{country_adjective}
-  valvat:
-    country_adjectives:
-      eu: Europa
-      at: Áustria
-      be: Bélgica
-      bg: Bulgária
-      cy: Chipre
-      cz: República Checa
-      de: Alemanha
-      dk: Dinamarca
-      ee: Estónia
-      es: Espanha
-      fi: Finlândia
-      fr: França
-      gb: Reino Unido
-      gr: Grécia
-      hu: Hungria
-      ie: Irlanda
-      it: Itália
-      lt: Lituânia
-      lu: Luxemburgo
-      lv: Letónia
-      mt: Malta
-      nl: Holanda
-      pl: Polónia
-      pt: Portugal
-      ro: Roménia
-      se: Suécia
-      si: Eslovénia
-      sk: Eslováquia
+      invalid_vat: não é um NIF %{country_adjective} válido.
+  valvat:
+    country_adjectives:
+    eu: Europeu
+    at: Austríaco
+    be: Belga
+    bg: Búlgaro
+    cy: Cipriota
+    cz: Checo
+    de: Alemão
+    dk: Dinamarquês
+    ee: Estónio
+    es: Espanhol
+    fi: Finlandês
+    fr: Francês
+    gb: Britânico
+    gr: Grego
+    hu: Húngaro
+    ie: Irlandês
+    it: Italiano
+    lt: Lituano
+    lu: Luxemburguese
+    lv: Letão
+    mt: Maltês
+    nl: Holandês
+    pl: Polaco
+    pt: Português
+    ro: Romeno
+    se: Sueco
+    si: Esloveno
+    sk: Eslovaco
+
